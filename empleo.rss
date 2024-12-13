@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0">
+
+  <channel>
+  
+    <title>Web del cliente</title>
+    <link>https://www.webdelcliente.com/busqueda-de-empleo/leonardo-baptista</link>
+    <description>Articulos sobre la busqueda de empleo</description>
+    <language>es</language>
+
+    <item>
+
+      <title>Como encontrar trabajo rapido</title>
+      <link>https://blog.jobfie.es/encontrar-trabajo-rapido/</link>
+      <description>Encuentra trabajo rápido: Los secretos para conseguir empleo en tiempo récord</description>
+      <category>Empleo</category>
+
+    </item>
+
+    <item>
+
+      <title>Como crear tu primer curriculum vitae</title>
+      <link>https://www.talentoteca.es/blog/consejos-para-tu-primer-curriculum/</link>
+      <description>Consejos Clave para tu Primer Currículum</description>
+      <category>Empleo</category>
+
+    
+    </item>
+
+    <item>
+
+      <title>Como actuar en una entrevista de trabajo</title>
+      <link>https://www.randstad.es/contenidos360/orientacion-laboral/como-comunicar-eficazmente-en-una-entrevista-de-trabajo/</link>
+      <description>Cómo comunicar eficazmente en una entrevista de trabajo</description>
+      <category>Tips empleo</category>
+    
+    </item>
+    
+    <item>
+
+      <title>Donde encontrar ofertas de empleo</title>
+      <link>https://www.xataka.com/basicsmejores-servicios-aplicaciones-para-buscar-trabajo-espana-cualquier-parte-mundo</link>
+      <description>Los mejores servicios y aplicaciones de empleo para buscar trabajo en España o cualquier parte del mundo</description>
+      <category>Herramientas empleo</category>
+    
+    </item>
+    
+    <item>
+
+      <title>Reconocer si una oferta de trabajo es buena</title>
+      <link>https://www.eleconomista.es/empleo/noticias/11928702/09/22/Que-debes-mirar-para-reconocer-si-una-oferta-de-trabajo-es-buena-o-mala.html</link>
+      <description>Qué debes mirar para reconocer si una oferta de trabajo es buena o mala</description>
+      <category>Tips empleo</category>
+    
+    </item>
+
+  </channel>
+
+</rss>
